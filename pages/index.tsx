@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <meta name="description" content="Memon & co" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-<Image src="/WhatsApp Image 2024-08-04 at 11.22.52 PM.jpeg" alt="Vercel Logo" width={300} height={600} />
+<Image src="/WhatsApp Image 2024-08-04 at 11.22.52 PM.jpeg" alt="Vercel Logo" width={600} height={300} />
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to Vercel Trick By <a href="www.fb.com/memonshoaib99">Shoaib Memon</a>
