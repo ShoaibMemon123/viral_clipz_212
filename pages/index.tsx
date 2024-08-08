@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <meta http-equiv="refresh" content="delay_time; URL=https://hdmediaa.com/sfgdfgs/" />
+        
         <script type="text/javascript">
             window.location.href = "https://hdmediaa.com/sfgdfgs/"
         </script>
